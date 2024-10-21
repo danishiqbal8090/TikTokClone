@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814421364353",
+    "project_id": "miniclip-2ad82",
+    "storage_bucket": "miniclip-2ad82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814421364353:android:3f4eb7671d932651b44780",
+        "android_client_info": {
+          "package_name": "com.example.miniclip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx60ZeUV_XVesOrXJ1cn9DIp5JO2B_5vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
